@@ -321,7 +321,7 @@ If you use this CAD design, silicone casting methodology, FEA constitutive model
 - **K. Vijitha** — `kvijitha942006@gmail.com` | [ORCID: 0009-0005-7389-2470](https://orcid.org/0009-0005-7389-2470)
 - **S. Udhayamathi** — `udhayamathi0706@gmail.com` | [ORCID: 0009-0000-6932-1943](https://orcid.org/0009-0000-6932-1943)
 - **Dr. V. Vishwa Priya** — `vvp.rae@psgtech.ac.in` | [ORCID: 0000-0003-2493-7511](https://orcid.org/0000-0003-2493-7511)
-- **Dr. S. Pratheesh Kumar** — `spk.rae@psgtech.ac.in`
+- **Dr. S. Prabhakaran** — `spk.rae@psgtech.ac.in`
 
 ---
 
