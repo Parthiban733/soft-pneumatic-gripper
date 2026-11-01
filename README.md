@@ -317,7 +317,7 @@ If you use this CAD design, silicone casting methodology, FEA constitutive model
 **Department of Robotics and Automation Engineering, PSG College of Technology**, Coimbatore, 641004, Tamil Nadu, India:
 
 - **R. Sarvesh** — `sarvesh.r.clg@gmail.com` | [ORCID: 0009-0000-4367-1953](https://orcid.org/0009-0000-4367-1953)
-- **M. Parthiban** — `parthiban272005@gmail.com` | [ORCID: 0009-0003-9127-4938](https://orcid.org/0009-0003-9127-4938)
+- **M. Parthiban** ([About Me](ABOUT_ME.md) • [Portfolio](https://drive.google.com/drive/folders/1plAiarodJJnpclTDpu9Z_DoSl9fzpq2I) • [LinkedIn](https://www.linkedin.com/in/parthiban-m-55688a286)) — `parthiban272005@gmail.com` | [ORCID: 0009-0003-9127-4938](https://orcid.org/0009-0003-9127-4938)
 - **K. Vijitha** — `kvijitha942006@gmail.com` | [ORCID: 0009-0005-7389-2470](https://orcid.org/0009-0005-7389-2470)
 - **S. Udhayamathi** — `udhayamathi0706@gmail.com` | [ORCID: 0009-0000-6932-1943](https://orcid.org/0009-0000-6932-1943)
 - **Dr. V. Vishwa Priya** — `vvp.rae@psgtech.ac.in` | [ORCID: 0000-0003-2493-7511](https://orcid.org/0000-0003-2493-7511)
