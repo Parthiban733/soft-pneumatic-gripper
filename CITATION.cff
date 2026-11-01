@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this soft pneumatic gripper CAD design, simulation model, or experimental data, please cite the chapter as below."
+title: "A Soft, Multi-finger Pneumatic Gripper for Versatile and Safe Object Handling"
+type: article
+authors:
+  - family-names: Sarvesh
+    given-names: R.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+    orcid: "https://orcid.org/0009-0000-4367-1953"
+  - family-names: Parthiban
+    given-names: M.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+    orcid: "https://orcid.org/0009-0003-9127-4938"
+  - family-names: Vijitha
+    given-names: K.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+    orcid: "https://orcid.org/0009-0005-7389-2470"
+  - family-names: Udhayamathi
+    given-names: S.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+    orcid: "https://orcid.org/0009-0000-6932-1943"
+  - family-names: Vishwa Priya
+    given-names: V.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+    orcid: "https://orcid.org/0000-0003-2493-7511"
+  - family-names: Pratheesh Kumar
+    given-names: S.
+    affiliation: "Department of Robotics and Automation Engineering, PSG College of Technology"
+preferred-citation:
+  type: book-chapter
+  title: "A Soft, Multi-finger Pneumatic Gripper for Versatile and Safe Object Handling"
+  collection-title: "Advancements in Automation, Robotics and Sensing"
+  publisher:
+    name: "Springer Nature"
+  year: 2027
+  authors:
+    - family-names: Sarvesh
+      given-names: R.
+    - family-names: Parthiban
+      given-names: M.
+    - family-names: Vijitha
+      given-names: K.
+    - family-names: Udhayamathi
+      given-names: S.
+    - family-names: Vishwa Priya
+      given-names: V.
+    - family-names: Pratheesh Kumar
+      given-names: S.

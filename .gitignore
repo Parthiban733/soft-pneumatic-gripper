@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & virtualenvs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary and extraction files
+extracted_paper_text.txt
+*.tmp
+*.log
+
+# Raw unorganized duplicates (organized cleanly in cad/, media/, paper/)
+710936_1_En_5_Chapter_Author_261012_074908.pdf
+Video_photos/
+3D_Model.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
