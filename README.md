@@ -272,8 +272,8 @@ The gripper underwent experimental validation across **20 different test objects
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/3-finger-pneumatic-gripper.git
-cd 3-finger-pneumatic-gripper
+git clone https://github.com/Parthiban733/soft-pneumatic-gripper.git
+cd soft-pneumatic-gripper
 
 # Install Python dependencies
 pip install -r scripts/requirements.txt
