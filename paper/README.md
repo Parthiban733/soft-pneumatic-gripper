@@ -35,7 +35,7 @@ This repository accompanies the research paper / book chapter published with **S
    - *Department of Robotics and Automation Engineering, PSG College of Technology, Coimbatore, 641004, Tamil Nadu, India*
    - Email: `vvp.rae@psgtech.ac.in`
    - ORCID: [0000-0003-2493-7511](https://orcid.org/0000-0003-2493-7511)
-6. **Dr. S. Pratheesh Kumar**
+6. **Dr. S. Prabhakaran**
    - *Department of Robotics and Automation Engineering, PSG College of Technology, Coimbatore, 641004, Tamil Nadu, India*
    - Email: `spk.rae@psgtech.ac.in`
 
@@ -51,7 +51,7 @@ This article introduces a soft 3-claw pneumatic gripper designed for adaptive an
 
 ```bibtex
 @incollection{sarvesh2027softgripper,
-  author    = {Sarvesh, R. and Parthiban, M. and Vijitha, K. and Udhayamathi, S. and Vishwa Priya, V. and Pratheesh Kumar, S.},
+  author    = {Sarvesh, R. and Parthiban, M. and Vijitha, K. and Udhayamathi, S. and Vishwa Priya, V. and Prabhakaran, S.},
   title     = {A Soft, Multi-finger Pneumatic Gripper for Versatile and Safe Object Handling},
   booktitle = {Advancements in Automation, Robotics and Sensing},
   publisher = {Springer Nature Switzerland},

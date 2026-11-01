@@ -1,7 +1,7 @@
 """
 Yeoh Hyperelastic Constitutive Model and Analytical Bending Simulation
 Paper: A Soft, Multi-finger Pneumatic Gripper for Versatile and Safe Object Handling
-Authors: R. Sarvesh, M. Parthiban, K. Vijitha, S. Udhayamathi, V. Vishwa Priya, S. Pratheesh Kumar
+Authors: R. Sarvesh, M. Parthiban, K. Vijitha, S. Udhayamathi, V. Vishwa Priya, S. Prabhakaran
 PSG College of Technology, Department of Robotics and Automation Engineering
 
 Constitutive Formulation:

@@ -301,7 +301,7 @@ If you use this CAD design, silicone casting methodology, FEA constitutive model
 
 ```bibtex
 @incollection{sarvesh2027softgripper,
-  author    = {Sarvesh, R. and Parthiban, M. and Vijitha, K. and Udhayamathi, S. and Vishwa Priya, V. and Pratheesh Kumar, S.},
+  author    = {Sarvesh, R. and Parthiban, M. and Vijitha, K. and Udhayamathi, S. and Vishwa Priya, V. and Prabhakaran, S.},
   title     = {A Soft, Multi-finger Pneumatic Gripper for Versatile and Safe Object Handling},
   booktitle = {Advancements in Automation, Robotics and Sensing},
   publisher = {Springer Nature Switzerland},
